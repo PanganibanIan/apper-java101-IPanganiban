@@ -7,3 +7,14 @@ Ian Panganiban
 6) Runtime Environment
 7) False
 8) JAVA_HOME
+9) 
+10)
+class Name{
+
+  public static void main(String[] args) {
+    System.out.println("Ian Panganiban");
+  }
+}
+
+
+Bonus Question) 
