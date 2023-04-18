@@ -1,6 +1,6 @@
 Ian Panganiban
 1) Java Development Kit
-2)
-3)
-4)
+2) Programming Language
+3) Runtime Environment
+4) Standard Library
 5)
