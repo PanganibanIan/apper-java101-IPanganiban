@@ -6,3 +6,4 @@ Ian Panganiban
 5) Java Virtual Machine
 6) Runtime Environment
 7) False
+8) JAVA_HOME
