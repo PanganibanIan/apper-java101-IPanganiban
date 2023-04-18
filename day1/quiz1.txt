@@ -7,8 +7,7 @@ Ian Panganiban
 6) Runtime Environment
 7) False
 8) JAVA_HOME
-9) 
-10)
+9) and 10)
 class Name{
 
   public static void main(String[] args) {
@@ -18,3 +17,4 @@ class Name{
 
 
 Bonus Question) 
+Yellow... 
