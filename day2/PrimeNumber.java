@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class PrimeNumber {
-    static boolean isPrime(int num) {
+    public static boolean isPrime(int num) {
         boolean prime = true ; // boolean for prime ( 0 = FALSE, 1 = TRUE )
         double end = Math.ceil(Math.sqrt(num)) ; //end number for multiple checking
 
