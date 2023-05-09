@@ -3,6 +3,7 @@ package flight;
 public class Flight {
     int seats;
     int passengers;
+    int seatsAvailable;
     Flight() {
         seats = 10;
         passengers = 0;
@@ -13,6 +14,7 @@ public class Flight {
             System.out.println("FULL! No Seats Available.");
         } else {
             passengers++;
+            seatsAvailable = seats - passengers;
         }
 
     }

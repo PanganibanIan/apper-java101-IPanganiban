@@ -26,16 +26,8 @@ public class App {
         manilaToBoracay.addPassenger();
         manilaToBoracay.addPassenger();
 
-        System.out.println("Current # of available seats: " + (manilaToBoracay.seats - manilaToBoracay.passengers));
+        System.out.println("Current # of available seats: " + (manilaToBoracay.seatsAvailable));
         System.out.println("Current # of Passengers: " + manilaToBoracay.passengers);
 
-
-//        System.out.println(manilaToBoracay.passengers);
-//        System.out.println(manilaToBoracay.seats);
-//
-//        manilaToBoracay.setNumberOfSeats(200);
-//
-//        System.out.println(manilaToBoracay.passengers);
-//        System.out.println(manilaToBoracay.seats);
     }
 }
