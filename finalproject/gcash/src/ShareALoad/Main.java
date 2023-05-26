@@ -7,7 +7,7 @@ public class Main {
         System.out.print("Please Input 11 Digit Phone Number: ");
         Scanner myScanner = new Scanner(System.in);
         String number = myScanner.nextLine();
-        while (number.isEmpty() || number.length() != 11 || !number.matches("[0-9]+")){
+        while (number.length() != 11 || !number.matches("[0-9]+")){
             if (number.isEmpty()) {
                 System.out.print("Please Input 11 Digit Phone Number: ");
                 number = myScanner.nextLine();
